@@ -1,0 +1,7 @@
+.discourse-bookmark-button-wrapper .bookmark {
+  margin-top: 0.5em;
+
+  &.bookmarked .d-icon {
+    color: var(--tertiary);
+  }
+}
